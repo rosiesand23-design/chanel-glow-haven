@@ -4,8 +4,8 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="font-display text-3xl md:text-4xl text-cream mb-4">Dulcehana</h2>
-          <p className="font-body text-sm text-cream/40 max-w-md mx-auto leading-relaxed">
-            Founded in Paris, Maison Noire embodies the intersection of science and luxury. Every formulation is a testament to uncompromising excellence.
+          <p className="font-body text-sm text-cream/40 max-w-md mx-auto leading-relaxed">Founded in Los Angeles, CA Dulcehana embodies the intersection of science and luxury. Every formulation is a testament to uncompromising excellence.
+
           </p>
         </div>
 

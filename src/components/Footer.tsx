@@ -10,8 +10,8 @@ const Footer = () => {
         </div>
 
         <div className="flex flex-col md:flex-row items-center justify-between border-t border-cream/10 pt-10">
-          <p className="font-body text-[10px] tracking-[0.2em] uppercase text-cream/30">
-            © 2026 Maison Noire. All rights reserved.
+          <p className="font-body text-[10px] tracking-[0.2em] uppercase text-cream/30">© 2026 DULCEHANA ALL RIGHTS RESERVED.
+
           </p>
           <div className="flex gap-8 mt-6 md:mt-0">
             {["Privacy", "Terms", "Contact"].map((link) =>

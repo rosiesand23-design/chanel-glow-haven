@@ -4,25 +4,25 @@ import productEye from "@/assets/product-eye.jpg";
 
 const products = [
   {
-    name: "Crème Suprême",
-    category: "Moisturizer",
-    price: "€285",
-    image: productCream,
-    description: "Ultra-rich repair cream with 24K gold micro-particles",
-  },
-  {
-    name: "Sérum Lumière",
-    category: "Serum",
-    price: "€340",
-    image: productSerum,
-    description: "Concentrated radiance serum with rare camellia oil",
-  },
-  {
-    name: "Regard Éternel",
+    name: "Eye Cream",
     category: "Eye Care",
     price: "€195",
+    image: productCream,
+    description: "Rejuvenating eye contour cream to smooth and brighten delicate skin",
+  },
+  {
+    name: "Night Renewal Crème",
+    category: "Night Care",
+    price: "€340",
+    image: productSerum,
+    description: "Intensive overnight repair cream that restores radiance while you sleep",
+  },
+  {
+    name: "Toner",
+    category: "Prep & Balance",
+    price: "€120",
     image: productEye,
-    description: "Intensive eye contour treatment with black truffle extract",
+    description: "Refining toner that purifies and prepares skin for optimal absorption",
   },
 ];
 

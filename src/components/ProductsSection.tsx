@@ -6,16 +6,16 @@ const products = [
   {
     name: "Eye Cream",
     category: "Eye Care",
-    price: "€195",
+    price: "Price:",
     image: productCream,
-    description: "Rejuvenating eye contour cream to smooth and brighten delicate skin",
+    description: "A firming, fatigue-fighting formula designed to smooth and energize the delicate eye area.\n",
   },
   {
     name: "Intense Hyaluronic Moisturizer",
     category: "Hydration",
-    price: "€340",
+    price: "Price:",
     image: productMoisturizer,
-    description: "Intensive hyaluronic moisturizer that delivers deep hydration and restores radiance",
+    description: "A rich, cushiony cream that delivers deep hydration and visible plumpness overnight.\n",
   },
   {
     name: "Collagen & Retinol Serum",

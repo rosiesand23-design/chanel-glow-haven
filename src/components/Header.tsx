@@ -8,7 +8,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
       <div className="container mx-auto flex items-center justify-between py-5 px-6">
         <a href="#" className="font-display text-2xl tracking-[0.3em] uppercase text-foreground">
-          Dulcehana
+          DULCE HANA
         </a>
 
         <nav className="hidden md:flex items-center gap-10">

@@ -8,14 +8,14 @@ const products = [
     category: "Eye Care",
     price: "Price:",
     image: productCream,
-    description: "A firming, fatigue-fighting formula designed to smooth and energize the delicate eye area.",
+    description: "A firming, fatigue-fighting formula designed to smooth and energize the delicate eye area.\n",
   },
   {
     name: "Intense Hyaluronic Moisturizer",
     category: "Hydration",
     price: "Price:",
     image: productMoisturizer,
-    description: "A rich, cushiony cream that delivers deep hydration and visible plumpness overnight.",
+    description: "A rich, cushiony cream that delivers deep hydration and visible plumpness overnight.\n",
   },
   {
     name: "Collagen & Retinol Serum",

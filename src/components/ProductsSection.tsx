@@ -20,9 +20,9 @@ const products = [
   {
     name: "Collagen & Retinol Serum",
     category: "Serums",
-    price: "€120",
+    price: "Price:",
     image: productSerum,
-    description: "Potent collagen and retinol serum for firmer, more youthful-looking skin",
+    description: "A powerhouse blend of collagen, retinol, and hyaluronic acid that firms, smooths, and deeply hydrates for skin that feels plump, protected, and radiant every day.\n",
   },
 ];
 

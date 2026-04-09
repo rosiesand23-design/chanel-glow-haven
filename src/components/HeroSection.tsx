@@ -17,8 +17,8 @@ const HeroSection = () => {
           The Art of Skincare
         </p>
         <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-normal text-cream leading-[1.1] mb-8 animate-fade-in-up" style={{ animationDelay: "0.4s", opacity: 0 }}>
-          Timeless
-          <span className="block italic text-gold-light">Elegance</span>
+          BELLEZA
+          <span className="block italic text-gold-light">PURA</span>
         </h1>
         <p className="font-body text-sm md:text-base text-cream/70 tracking-wide leading-relaxed mb-10 max-w-lg mx-auto animate-fade-in-up" style={{ animationDelay: "0.7s", opacity: 0 }}>
           Discover our curated collection of rare botanicals and precious ingredients, crafted for those who demand nothing less than perfection.

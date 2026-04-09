@@ -1,6 +1,6 @@
-import productCream from "@/assets/product-cream.jpg";
-import productSerum from "@/assets/product-serum.jpg";
-import productEye from "@/assets/product-eye.jpg";
+import productCream from "@/assets/product-cream.webp";
+import productMoisturizer from "@/assets/product-moisturizer.webp";
+import productSerum from "@/assets/product-serum.webp";
 
 const products = [
   {
@@ -11,18 +11,18 @@ const products = [
     description: "Rejuvenating eye contour cream to smooth and brighten delicate skin",
   },
   {
-    name: "Night Renewal Crème",
-    category: "Night Care",
+    name: "Intense Hyaluronic Moisturizer",
+    category: "Hydration",
     price: "€340",
-    image: productSerum,
-    description: "Intensive overnight repair cream that restores radiance while you sleep",
+    image: productMoisturizer,
+    description: "Intensive hyaluronic moisturizer that delivers deep hydration and restores radiance",
   },
   {
-    name: "Toner",
-    category: "Prep & Balance",
+    name: "Collagen & Retinol Serum",
+    category: "Serums",
     price: "€120",
-    image: productEye,
-    description: "Refining toner that purifies and prepares skin for optimal absorption",
+    image: productSerum,
+    description: "Potent collagen and retinol serum for firmer, more youthful-looking skin",
   },
 ];
 
